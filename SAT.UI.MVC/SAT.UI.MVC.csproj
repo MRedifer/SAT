@@ -185,6 +185,7 @@
     <Compile Include="Utilities\ImageUtility.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="configs\connectionstrings.config" />
     <Content Include="Content\css\custom.css" />
     <Content Include="Content\css\style.blue.css" />
     <Content Include="Content\css\style.blue.min.css" />
